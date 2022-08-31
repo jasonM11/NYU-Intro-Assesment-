@@ -1,5 +1,21 @@
 /* add code here to make your image 300px square */
+#pet { height: 300px;
+
+
+}
 
 /* add code here to change the color and font family of your name/title */
+.title { color:rgb(98, 174, 40);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
 
 /* Bonus: change the color of your list elements */
+li {
+    color:rgb(46, 163, 171);
+}
+p{
+    color:rgb(179, 14, 14)
+}
+h1{color:green;
+}
